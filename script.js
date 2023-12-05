@@ -29,5 +29,4 @@ CodeSphere,
 noBtn.style.left = randomX + "px";
 
 noBtn.style.top = randomY + "px";
-
 });
