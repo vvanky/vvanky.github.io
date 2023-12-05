@@ -1,0 +1,92 @@
+*
+{
+
+margin: 0; bantalan: 0;
+
+ukuran kotak: kotak perbatasan;
+
+}
+
+tubuh {
+
+tampilan: fleksibel;
+
+justify-content: tengah;
+
+menyelaraskan-item: tengah; tinggi minimum: 100vh;
+
+latar belakang: asap putih;
+
+keluarga font: Verdana, Jenewa, Tahoma, sans-serif;
+
+}
+
+.gif (
+
+tinggi: 100%; lebar: 100%;
+
+jam2 {
+
+perataan teks: tengah;
+
+ukuran font: 1,5em;
+
+warna: #e94d58;
+
+P
+
+}
+
+margin: 15 piksel 0;
+
+}
+
+.btn-grup {
+
+lebar: 100%;
+
+tinggi: 50 piksel;
+
+tampilan: fleksibel;
+
+justify-content: tengah;
+
+margin-atas: 50 piksel;
+
+} tombol {
+
+posisi: mutlak;
+
+lebar: 150 piksel; tinggi: mewarisi;
+
+warna putih;
+
+ukuran font: 1.2em;
+
+radius batas: 30px;
+
+garis besar: tidak ada;
+
+kursor: penunjuk;
+
+bayangan kotak: 2px 4px abu-abu;
+
+batas: 2 piksel padat #e94d58;
+
+ukuran font: 1.2em;
+
+} tombol:anak ke-n(1) {
+
+margin-kiri: -200px;
+
+latar belakang: #e94d58;
+
+} tombol:anak ke-n(2) {
+
+margin-kanan: -200 piksel;
+
+latar belakang: putih;
+
+warna: #e94458;
+
+}
