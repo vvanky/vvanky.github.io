@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 
-Body> {
+body {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -16,8 +16,9 @@ Body> {
 
 .gif {
     height: 100%;
-    width:100%;
+    width: 100%;
 }
+
 h2 {
     text-align: center;
     font-size: 1.5em;
@@ -33,8 +34,7 @@ h2 {
 }
 button {
     position: absolute;
-    width: 100%;
-    height: 150px;
+    width: 150px;
     height: inherit;
     color: white;
     font-size: 1.2em;
@@ -43,7 +43,7 @@ button {
     cursor: pointer;
     box-shadow: 0 2px 4px gray;
     border: 2px solid #e94d58;
-    font-size: 1.2em
+    font-size: 1.2em;
 }
 button:nth-child(1) {
     margin-left: -200px;
